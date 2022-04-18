@@ -1,0 +1,13 @@
+a{
+    text-decoration: none;
+    margin: 1rem;
+    color: black
+}
+nav{
+    height: 2rem;
+    background-color: #EEEEEE;
+}
+.active{
+    color: red;
+    border-bottom: 2px solid black;
+}

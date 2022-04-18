@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "myworkforce",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\dronv\\OneDrive\\Desktop\\React projects\\MyWorkForce\\amplify\\backend\\api\\myworkforce\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authmyworkforce8ce08325"
+    }
+  }
+}

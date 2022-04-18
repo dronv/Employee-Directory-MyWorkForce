@@ -1,0 +1,28 @@
+.input_fields{
+    display: flex;
+    flex-direction: column;
+    border-radius: 8pt;
+    margin: 1rem;
+    text-align: center;
+    border-width: thin;
+    height: 1.5rem;
+    width: 15rem;
+}
+input .input_fields{
+    margin-bottom: 1rem;
+}
+.btn-success{
+margin-left: 10rem;
+width: 20rem;
+margin-top: 1rem;
+}
+
+.btn-danger{
+    margin-left: 10rem;
+    margin-top: 1rem;
+}
+#add_user_img{
+    height: 500px;
+    width: 800px;
+    margin-left: 500px;
+}

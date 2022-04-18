@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "myworkforce",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authmyworkforce8ce08325",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
